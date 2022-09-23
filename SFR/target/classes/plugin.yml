@@ -1,0 +1,5 @@
+name: DResearch
+version: '1.0-SNAPSHOT'
+main: me.ddggdd135.DResearch
+depend: [ Slimefun ]
+softdepend: [ Slimefun ]

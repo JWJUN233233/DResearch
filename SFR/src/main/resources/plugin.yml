@@ -1,0 +1,5 @@
+name: DResearch
+version: '${project.version}'
+main: me.ddggdd135.DResearch
+depend: [ Slimefun ]
+softdepend: [ Slimefun ]
